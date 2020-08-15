@@ -1,0 +1,16 @@
+{
+    "name": "lucan/fhorla",
+    "description": "A simple PHP framework for web applications",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucan Lee",
+            "email": "michaelleemichaellee408@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    }
+}
