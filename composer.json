@@ -1,5 +1,5 @@
 {
-    "name": "jeawhanlee/fhorla",
+    "name": "fhorla/fhorla",
     "description": "A simple PHP framework for web applications",
     "type": "project",
     "license": "MIT",
@@ -9,7 +9,8 @@
             "email": "michaelleemichaellee408@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
     "require": {
         "php": ">=7.2"
     }
