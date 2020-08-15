@@ -1,6 +1,6 @@
 <?php
 class Welcome extends Fh_ctrl{   
-
+    // hello world
     public function index(){
         $select = inst('select','db');
         $this->render(
